@@ -1,0 +1,7 @@
+1 all sans serif #
+2 all serif type #
+3 sans type + serif type #
+4 slab-serif + sans type #
+5 slab-serif + serif type #
+6 script + sans type | serif type
+7 novelty/display font + sans type | serif type
